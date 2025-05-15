@@ -1,1 +1,2 @@
-An offline, downloadable .epub reader based on HTML and JS. 
+A simple, online .epub reader based on HTML and JS
+Downloadable, but requires an internet connection.
